@@ -28,5 +28,6 @@ public class Main {
         System.out.println("add: " + calc.add(a,b));
         System.out.println("mul: " + calc.multiply(a,b));
         System.out.println("sub: " + Calculator.substract(a,b));
+        sc.close();
     }
 }
